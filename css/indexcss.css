@@ -1,0 +1,47 @@
+.fa-solid{
+    color: white;
+    
+}
+.bloc-item{
+color:rgb(168, 166, 166);
+font-size: small;
+width: 20%;
+
+
+}
+.block-bottom{
+ 
+}
+.block-bottom span,h6,button{
+    font-size: small;
+    color: rgb(88, 86, 86);
+}
+.icon-cart{
+     right:-120px;
+     top:140px;
+     width: 150px;
+     height:25px;
+    padding: 5px;
+    font-size: 10px;
+    transition: right .2s linear;
+}
+.fa-cart-shopping{
+    /* color: black; */
+}
+.icon-envelope{
+     right:-120px;
+     top:170px;
+     width: 150px;
+     height:25px;
+    font-size: 10px;
+    transition: right .2s linear;
+}
+.icon-cart:hover{
+    right: 0px;
+    background-color: rgb(222, 64, 64);
+}
+.icon-envelope:hover{
+    right: 0px;
+    background-color:  rgb(227, 55, 55);
+}
+
